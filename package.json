@@ -1,0 +1,24 @@
+{
+  "name": "storm-react-native",
+  "version": "0.0.1",
+  "description": "Light and powerful Local Storage ORM library for JavaScript",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1016/storm-react-native.git"
+  },
+  "keywords": [
+    "orm",
+    "react-native-orm",
+    "AsyncStorage"
+  ],
+  "author": "Eliseo Geraldo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e1016/storm-react-native/issues"
+  },
+  "homepage": "https://github.com/e1016/storm-react-native#readme"
+}
