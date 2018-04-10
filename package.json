@@ -1,7 +1,7 @@
 {
   "name": "storm-react-native",
-  "version": "0.0.1",
-  "description": "Light and powerful Local Storage ORM library for JavaScript",
+  "version": "0.0.2",
+  "description": "Light and powerful AsyncStorage library for React Native",
   "main": "lib/index.js",
   "directories": {
     "lib": "lib"
