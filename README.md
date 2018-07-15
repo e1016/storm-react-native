@@ -218,5 +218,3 @@ cats.erase({
   name: 'Kitties'
 }) // <- erase all from collection where name is Kitties
 ```
-=======
-in dev for now, wait for docs...
