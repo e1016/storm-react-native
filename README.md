@@ -1,5 +1,6 @@
 # Storm for React Native
 
+<<<<<<< HEAD
 ###### Storage Object-Relational Mapping for React Native v1.0.0
 
 this library provides a light but powerful way to handle AsyncStorage data, in a simple CRUD.
@@ -218,3 +219,6 @@ cats.erase({
   name: 'Kitties'
 }) // <- erase all from collection where name is Kitties
 ```
+=======
+in dev for now, wait for docs...
+>>>>>>> 46adf119c7ebe163d1f94ceafdfa28ea040f7b3e
