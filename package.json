@@ -1,8 +1,8 @@
 {
   "name": "storm-react-native",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Light and powerful AsyncStorage library for React Native",
-  "main": "lib/index.js",
+  "main": "index.js",
   "directories": {
     "lib": "lib"
   },
