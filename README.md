@@ -16,7 +16,7 @@ storm follows a collections philosophy, in this case we can create data groups u
 import Collection from 'storm-react-native'
 
 constructor () {
-  this.cats = new Collection('nameReference')
+  this.cats = new Collection('@name:nameReference')
 }
 ```
 `nameReference` will be used for save and get data from AsyncStorage, it's advisable to use descriptive names, it can be the same as `cats` variable.
@@ -24,8 +24,8 @@ constructor () {
 in case 2 variables use the same collection, like this.
 
 ```js
-this.cats = new Collection('cats')
-this.coolestCats = new Collection('cats')
+this.cats = new Collection('@data:cats')
+this.coolestCats = new Collection('@data:cats')
 ```
 
 both variables (`cats`, `coolestCats`) will have an impact on the same data.
