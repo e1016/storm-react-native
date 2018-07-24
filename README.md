@@ -103,7 +103,7 @@ for delete data use erase
 
 ```js
 /**
-* update
+* erase
 * @param conditions: Object -> define for filter erase data (optional)
 * @param callback:   Function
 */
