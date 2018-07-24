@@ -1,3 +1,3 @@
-import StromCollection from './lib/StormReactNative'
+import StromCollection from './lib/ReactNativeStorm'
 
 export default StromCollection
