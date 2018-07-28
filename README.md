@@ -1,8 +1,12 @@
 # Storm for React Native
 
-### v1.0
+<p align="center">
+   <img src="https://i.imgur.com/Ydft8tu.png" width="250" alt="Storm JS logo">
+   <br>
+   AsyncStorage library for React Native v1.0
+</p>
 
-[storm for web localStorage manager](https://github.com/e1016/storm)
+[storm for web – localStorage manager](https://github.com/e1016/storm)
 
 ## Install
 `npm i storm-react-native`
