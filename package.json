@@ -1,6 +1,6 @@
 {
   "name": "storm-react-native",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Light and powerful AsyncStorage library for React Native",
   "main": "index.js",
   "directories": {
@@ -13,7 +13,8 @@
   "keywords": [
     "orm",
     "react-native-orm",
-    "AsyncStorage"
+    "asyncstorage",
+    "react-native"
   ],
   "author": "Eliseo Geraldo",
   "license": "MIT",

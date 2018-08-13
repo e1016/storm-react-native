@@ -3,7 +3,7 @@
 <p align="center">
    <img src="https://i.imgur.com/Ydft8tu.png" width="250" alt="Storm JS logo">
    <br>
-   AsyncStorage library for React Native v1.0
+   AsyncStorage library for React Native v1.1
 </p>
 
 [storm for web – localStorage manager](https://github.com/e1016/storm)
