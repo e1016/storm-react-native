@@ -7,6 +7,9 @@
 </p>
 
 [storm for web – localStorage manager](https://github.com/e1016/storm)
+## v1.1
+
+### Supports for promises, documentation is in proccess
 
 ## Install
 `npm i storm-react-native`
